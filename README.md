@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lance241 real name or student name: Steven Fraga
+- 👋 Hi, I’m @Lance241, real name is Steven Fraga
 - 🌱 I’m currently learning ... How to code in java in class CIS-12
 - this later info is part of an assignment for the first lab don't mind it
 ### Java-Lab-001 Answers 
